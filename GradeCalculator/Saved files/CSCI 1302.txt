@@ -1,0 +1,41 @@
+CSCI 1302
+
+Grades: 
+Attendance 100 5
+Homework 97.3 10
+Software Projects 100.6875 30
+Exam 1 92 15
+Exam 2 78 15
+Exam 3 81 15
+Final Project 94.5 10
+  
+  
+  
+
+Grade Scale: A 100 90
+B 89 80
+C 79 70
+D 69 60
+F 59 0
+
+Overall Grade: 92.04% ACSCI 1302
+
+Grades: 
+Attendance 100 5
+Homework 97.3 10
+Software Projects 100.6875 30
+Exam 1 92 15
+Exam 2 78 15
+Exam 3 81 15
+Final Project 94.5 11
+  
+  
+  
+
+Grade Scale: A 100 90
+B 89 80
+C 79 70
+D 69 60
+F 59 0
+
+Overall Grade: 92.04% A
